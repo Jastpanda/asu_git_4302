@@ -1,14 +1,16 @@
 # Kseniya Grishina	
-```<html>
+
+```
+<html>
      <head>
       <title>PHP</title>
      </head>
      <body>
      	<?php echo '<p>Hello world!</p>'; ?>
      </body>
-```</html>
+</html>
+```
 
-
- + [Markdown Editor](https://jbt.github.io/markdown-editor/) for Markdown writing
+ * [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
 
